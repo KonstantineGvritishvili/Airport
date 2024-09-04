@@ -1,0 +1,14 @@
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.AssemblyInfoInputs.cache
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.AssemblyInfo.cs
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.csproj.CoreCompileInputs.cache
+C:\Users\Kote\source\repos\Flight\Flight\bin\Debug\net6.0\Flight.exe
+C:\Users\Kote\source\repos\Flight\Flight\bin\Debug\net6.0\Flight.deps.json
+C:\Users\Kote\source\repos\Flight\Flight\bin\Debug\net6.0\Flight.runtimeconfig.json
+C:\Users\Kote\source\repos\Flight\Flight\bin\Debug\net6.0\Flight.dll
+C:\Users\Kote\source\repos\Flight\Flight\bin\Debug\net6.0\Flight.pdb
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.dll
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\refint\Flight.dll
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.pdb
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\Flight.genruntimeconfig.cache
+C:\Users\Kote\source\repos\Flight\Flight\obj\Debug\net6.0\ref\Flight.dll
